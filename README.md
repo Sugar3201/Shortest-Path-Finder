@@ -7,7 +7,7 @@
 
 
 
-<a href="https://sadanandpai.github.io/shortest-path-finder/dist/">Live demo</a>
+<a href="https://git@github.com:Sugar3201/Shortest-Path-Finder.git">Live demo</a>
 
 </div>
 
