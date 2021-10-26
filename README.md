@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Shortest Path Finder (Visualizer)</h2>
+<h2> Shortest Path Finder ( Visualizer ) </h2>
 
 ### Shortest Path Finder using BFS algorithm in React
 
