@@ -19,7 +19,7 @@
 
 ### Features
 
-- Responsive grid layout for screen sizes
+- Responsive grid-layout for screen sizes
 - Rows and columns control
 - Custom maze building options
 - Random maze generator
